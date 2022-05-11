@@ -1,11 +1,24 @@
 # node-api-15min
-Desafio de desenvolver uma APi RESTfull ligada à um banco de dados SQL em 15 minutos
+*Desafio de desenvolver uma APi RESTfull ligada à um banco de dados SQL em 15 minutos*
 
-Install
+**Install** <br/>
+npm install <br/>
 
-npm install
-windows - npm run start-dev
-linus - npm start-dev
+**config** <br/>
+crie um banco de dados MySQL nomeado: productsApi <br/>
+crie uma tabela chamada products <br/>
+crie os seguintes colunas na tabela <br/>
+   id: int - notnull -primary key <br/>
+   name: string - notnull <br/>
+   price: string - notnull <br/>
 
-Video Youtube - Link
-Api Desenvolvida e Testada em video
+instances/mysql.ts - troque o user, password e port, de acordo com seu banco de dados <br/>
+
+
+**Start** <br/>
+windows - npm run start-dev <br/>
+linux - npm start-dev <br/>
+
+**Video Youtube - Link** <br/>
+
+Api Desenvolvida e Testada em video <br/>
