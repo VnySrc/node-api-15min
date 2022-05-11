@@ -1,0 +1,17 @@
+criar servidor http ( X )
+configurar servidor ( X )
+
+Database - productsApi
+
+criar banco de dados ( X )
+criar uma instancia do banco de dados ( X )
+criar o model dos produtos ( X )
+
+ROUTES 
+
+GET - /products ( X )
+POST - /products ( X )
+put - /products/:id ( X )
+DELETE - /products/:id ( X )
+
+express dotenv sequelize mysql2
