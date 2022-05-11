@@ -19,6 +19,6 @@ instances/mysql.ts - troque o user, password e port, de acordo com seu banco de 
 windows - npm run start-dev <br/>
 linux - npm start-dev <br/>
 
-**Video Youtube - Link** <br/>
+**Video Youtube - https://youtu.be/mQkN3iOtmw0** <br/>
 
 Api Desenvolvida e Testada em video <br/>
